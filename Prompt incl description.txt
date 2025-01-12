@@ -1,0 +1,9 @@
+Prompt: (incl. description.txt)
+solve this in Python, using the description and the Template in the file. Give me 3 different approaches
+
+IDE was restarted after each generation of code to make sure that the chat does not use information from previously loaded files.
+
+Tasks with missing Figures were excluded, except those, where the Figure was not necessary to understand the task. E.g. if it was only a depiction of the text and could be easily derived from the textual description.
+
+
+sqp_5463570440eb8c544e6cb5825616e76409a4b828

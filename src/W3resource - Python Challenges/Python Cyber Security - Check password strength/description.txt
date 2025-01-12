@@ -1,0 +1,7 @@
+Write a Python program to check if a password meets the following criteria:
+
+At least 8 characters long and
+
+Contains at least one uppercase letter, one lowercase letter, one digit, and one special character (!, @, #, $, %, or &)
+
+If the password meets the criteria, print a message that says "Valid Password." If it doesn't meet the criteria, print a message that says "Password does not meet requirements."

@@ -1,0 +1,5 @@
+
+Write a Python program to alter the owner and the group ID of a specified file. The goal is to change the owner and group ID of a file from another user  without root permissions.
+
+
+

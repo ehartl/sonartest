@@ -1,0 +1,5 @@
+In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found. Alternatively, the attacker can attempt to guess the key which is typically created from the password using a key derivation function. This is known as an exhaustive key search.
+
+Write a  Python program that simulates a brute-force attack on a password by trying out all possible character combinations.
+
+
