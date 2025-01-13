@@ -1,0 +1,211 @@
+Difficulty,Title,Solution,Accepted,Intentionality Issue(s),Intentionality Sub-Category,Adaptability Issue(s),Adaptability Sub-Category,Consistency Issue(s),Consistency Sub-Category
+Easy,1. Two Sum,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,1. Two Sum,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,1. Two Sum,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,1. Two Sum,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,1. Two Sum,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,1. Two Sum,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,9. Palindrome Number,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,9. Palindrome Number,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,9. Palindrome Number,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,9. Palindrome Number,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,9. Palindrome Number,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,9. Palindrome Number,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,13. Roman to Integer,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,13. Roman to Integer,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,13. Roman to Integer,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,13. Roman to Integer,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,13. Roman to Integer,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,13. Roman to Integer,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,14. Longest Common Prefix,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,14. Longest Common Prefix,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,14. Longest Common Prefix,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,14. Longest Common Prefix,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,14. Longest Common Prefix,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,14. Longest Common Prefix,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,20. Valid Parentheses,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,20. Valid Parentheses,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,20. Valid Parentheses,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,20. Valid Parentheses,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,20. Valid Parentheses,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,20. Valid Parentheses,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,21. Merge Two Sorted Lists,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,21. Merge Two Sorted Lists,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,21. Merge Two Sorted Lists,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,21. Merge Two Sorted Lists,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,21. Merge Two Sorted Lists,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,21. Merge Two Sorted Lists,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,26. Remove Duplicates from Sorted Array,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,26. Remove Duplicates from Sorted Array,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,26. Remove Duplicates from Sorted Array,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,26. Remove Duplicates from Sorted Array,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,26. Remove Duplicates from Sorted Array,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,26. Remove Duplicates from Sorted Array,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,27. Remove Element,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,27. Remove Element,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,27. Remove Element,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,27. Remove Element,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,27. Remove Element,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,27. Remove Element,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,28. Find the Index of the First Occurrence in a Stri,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,28. Find the Index of the First Occurrence in a Stri,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,28. Find the Index of the First Occurrence in a Stri,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,28. Find the Index of the First Occurrence in a Stri,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,28. Find the Index of the First Occurrence in a Stri,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,28. Find the Index of the First Occurrence in a Stri,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,35. Search Insert Position,user_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,35. Search Insert Position,user_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,35. Search Insert Position,user_solution_3,,0,LEER,0,LEER,0,LEER
+Easy,35. Search Insert Position,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Easy,35. Search Insert Position,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Easy,35. Search Insert Position,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,2. Add Two Numbers,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,2. Add Two Numbers,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,2. Add Two Numbers,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,2. Add Two Numbers,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,2. Add Two Numbers,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,2. Add Two Numbers,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,3. Longest Substring Without Repeating Characters,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,3. Longest Substring Without Repeating Characters,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,3. Longest Substring Without Repeating Characters,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,3. Longest Substring Without Repeating Characters,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,3. Longest Substring Without Repeating Characters,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,3. Longest Substring Without Repeating Characters,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,5. Longest Palindromic Substring,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,5. Longest Palindromic Substring,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,5. Longest Palindromic Substring,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,5. Longest Palindromic Substring,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,5. Longest Palindromic Substring,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,5. Longest Palindromic Substring,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,6. Zigzag Conversion,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,6. Zigzag Conversion,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,6. Zigzag Conversion,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,6. Zigzag Conversion,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,6. Zigzag Conversion,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,6. Zigzag Conversion,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,7. Reverse Integer,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,7. Reverse Integer,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,7. Reverse Integer,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,7. Reverse Integer,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,7. Reverse Integer,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,7. Reverse Integer,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,11. Container With Most Water,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,11. Container With Most Water,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,11. Container With Most Water,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,11. Container With Most Water,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,11. Container With Most Water,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,11. Container With Most Water,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,12. Integer to Roman,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,12. Integer to Roman,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,12. Integer to Roman,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,12. Integer to Roman,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,12. Integer to Roman,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,12. Integer to Roman,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,15. 3Sum,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,15. 3Sum,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,15. 3Sum,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,15. 3Sum,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,15. 3Sum,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,15. 3Sum,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,16. 3Sum Closest,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,16. 3Sum Closest,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,16. 3Sum Closest,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,16. 3Sum Closest,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,16. 3Sum Closest,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,16. 3Sum Closest,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,19. Remove Nth Node From End of List,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,19. Remove Nth Node From End of List,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,19. Remove Nth Node From End of List,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,19. Remove Nth Node From End of List,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,19. Remove Nth Node From End of List,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,19. Remove Nth Node From End of List,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,22. Generate Parentheses,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,22. Generate Parentheses,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,22. Generate Parentheses,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,22. Generate Parentheses,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,22. Generate Parentheses,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,22. Generate Parentheses,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,29. Divide Two Integers,user_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,29. Divide Two Integers,user_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,29. Divide Two Integers,user_solution_3,,0,LEER,0,LEER,0,LEER
+Medium,29. Divide Two Integers,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Medium,29. Divide Two Integers,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Medium,29. Divide Two Integers,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,4. Median of Two Sorted Arrays,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,4. Median of Two Sorted Arrays,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,4. Median of Two Sorted Arrays,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,4. Median of Two Sorted Arrays,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,4. Median of Two Sorted Arrays,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,4. Median of Two Sorted Arrays,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,10. Regular Expression Matching,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,10. Regular Expression Matching,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,10. Regular Expression Matching,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,10. Regular Expression Matching,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,10. Regular Expression Matching,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,10. Regular Expression Matching,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,23. Merge k Sorted Lists,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,23. Merge k Sorted Lists,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,23. Merge k Sorted Lists,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,23. Merge k Sorted Lists,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,23. Merge k Sorted Lists,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,23. Merge k Sorted Lists,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,25. Reverse Nodes in k-Group,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,25. Reverse Nodes in k-Group,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,25. Reverse Nodes in k-Group,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,25. Reverse Nodes in k-Group,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,25. Reverse Nodes in k-Group,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,25. Reverse Nodes in k-Group,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,30. Substring with Concatenation of All Words,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,30. Substring with Concatenation of All Words,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,30. Substring with Concatenation of All Words,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,30. Substring with Concatenation of All Words,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,30. Substring with Concatenation of All Words,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,30. Substring with Concatenation of All Words,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,32. Longest Valid Parentheses,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,32. Longest Valid Parentheses,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,32. Longest Valid Parentheses,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,32. Longest Valid Parentheses,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,32. Longest Valid Parentheses,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,32. Longest Valid Parentheses,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,37. Sudoku Solver,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,37. Sudoku Solver,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,37. Sudoku Solver,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,37. Sudoku Solver,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,37. Sudoku Solver,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,37. Sudoku Solver,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,41. First Missing Positive,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,41. First Missing Positive,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,41. First Missing Positive,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,41. First Missing Positive,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,41. First Missing Positive,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,41. First Missing Positive,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,42. Trapping Rain Water,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,42. Trapping Rain Water,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,42. Trapping Rain Water,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,42. Trapping Rain Water,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,42. Trapping Rain Water,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,42. Trapping Rain Water,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,44. Wildcard Matching,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,44. Wildcard Matching,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,44. Wildcard Matching,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,44. Wildcard Matching,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,44. Wildcard Matching,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,44. Wildcard Matching,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,60. Permutation Sequence,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,60. Permutation Sequence,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,60. Permutation Sequence,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,60. Permutation Sequence,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,60. Permutation Sequence,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,60. Permutation Sequence,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,65. Valid Number,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,65. Valid Number,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,65. Valid Number,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,65. Valid Number,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,65. Valid Number,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,65. Valid Number,ai_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,68. Text Justification,user_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,68. Text Justification,user_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,68. Text Justification,user_solution_3,,0,LEER,0,LEER,0,LEER
+Hard,68. Text Justification,ai_solution_1,,0,LEER,0,LEER,0,LEER
+Hard,68. Text Justification,ai_solution_2,,0,LEER,0,LEER,0,LEER
+Hard,68. Text Justification,ai_solution_3,,0,LEER,0,LEER,0,LEER
